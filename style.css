@@ -10,6 +10,7 @@ body{
     text-align: center;
     background: url('imagens/fundo.jpg');
     background-size: cover;
+    min-height: 100vh;
 }
 main{
     display: inline-block;
